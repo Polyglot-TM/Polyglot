@@ -19,5 +19,5 @@ o	Thomas Ouellette : https://github.com/touel068
 
 o	Athavan Jeeva : https://github.com/Athavan1919
 
-o	<org_name>https://github.com/Polyglot-TM/Polyglot/blob/master/README.md<org_name>
+o	<org_name>https://polyglot-tm.github.io/Polyglot/<org_name>
 
