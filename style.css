@@ -10,16 +10,24 @@
 .item-d {
   grid-area: footer;
 }
+.item-e {
+	grid-area: buttons;
+}
 
 .container {
   grid-template-columns: 50px 50px 50px 50px;
   grid-template-rows: auto;
   grid-template-areas: 
-    "header header header header"
+    "header header header buttons"
     "main main . sidebar"
     "footer footer footer footer";
 }
 */
 h1{
-	color: blue;
+	text-align:center;
+	font-size:500%;
+	font-family:verdana
+}
+body{
+	background-color:powderblue;"
 }
