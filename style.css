@@ -1,4 +1,7 @@
-/*.item-a {
+/*
+
+Ignore this, it's an experiment
+.item-a {
   grid-area: header;
 }
 .item-b {
@@ -29,5 +32,9 @@ h1{
 	font-family:verdana
 }
 body{
+	/*
+	Tested adding images
 	background-color:powderblue;"
+	*/
+	background-image: url("Sample.jpg");
 }
