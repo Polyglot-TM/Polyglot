@@ -19,5 +19,4 @@ o	Thomas Ouellette : https://github.com/touel068
 
 o	Athavan Jeeva : https://github.com/Athavan1919
 
-o	<org_name>https://polyglot-tm.github.io/Polyglot/<org_name>
-
+o	Ntibaharire Lionel : https://github.com/Llionel
