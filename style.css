@@ -34,7 +34,9 @@ h1{
 body{
 	/*
 	Tested adding images
-	background-color:powderblue;"
 	*/
+	background-color:powderblue;"
+	/*
 	background-image: url("Sample.jpg");
+	*/
 }
