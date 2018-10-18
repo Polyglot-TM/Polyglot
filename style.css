@@ -32,7 +32,7 @@ h1{
 	font-family:verdana
 }
 body{
-	background-color: gray;
+	background-color: powderblue;
 }
 div:hover
 {  
@@ -53,4 +53,14 @@ img {
 	padding: 10px;
 	border-image-width: 10px;
 	background-attachment: fixed;
+}
+.button{
+    background-color: #F4D03F;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 12px;    
 }
