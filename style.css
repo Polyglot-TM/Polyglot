@@ -1,6 +1,6 @@
 /*
 
-Ignore this, it's an experiment
+Ignore this, it's an experiment -Soorya
 .item-a {
   grid-area: header;
 }
@@ -31,9 +31,27 @@ h1{
 	font-size:500%;
 	font-family:verdana
 }
+
 body{
 	background-color: powderblue;
 }
+
+h2{
+	text-align: center;
+
+}
+
+h3{
+	text-align: center;
+
+}
+/*
+
+I find this hover feature a little annoying and distracting, have a look at it for yourselves. 
+I think it'd be best if this was removed and the hover effect used elsewhere. -Soorya
+*/
+
+/*
 div:hover
 {  
 background-color: rgb(169,169,169);
@@ -42,6 +60,7 @@ background-repeat:no-repeat;
 	margin: 0px 0px;
 	border-radius: 10px;
 }
+*/
 
 p{
 	letter-spacing: 1px;
@@ -54,6 +73,7 @@ img {
 	border-image-width: 10px;
 	background-attachment: fixed;
 }
+/*Moved button code to external CSS. -Soorya */
 .button{
     background-color: #F4D03F;
     border: none;
