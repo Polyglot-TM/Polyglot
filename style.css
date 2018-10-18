@@ -84,3 +84,7 @@ img {
     cursor: pointer;
     border-radius: 12px;    
 }
+.pricingtext{
+	font-size:12px;
+	font-family: Verdana;
+}
