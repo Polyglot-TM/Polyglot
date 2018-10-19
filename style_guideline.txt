@@ -1,1 +1,12 @@
 style guideline
+
+Color theme:
+background:
+task bar:
+More info:
+pricing:
+About us:
+Contact:'
+
+Font:
+ Verdana

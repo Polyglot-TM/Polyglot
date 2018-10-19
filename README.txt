@@ -1,5 +1,6 @@
 # Polyglot
 The Translator App
+This app translates what is said
 
 
 •GitHub Organization/Repository Links ¬
