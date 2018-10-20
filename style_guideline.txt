@@ -1,4 +1,4 @@
-style guideline: Color Theme: Blue-green and dark blue are the main color of the website. Individual sections may have other colors that are complementary to blue-green in the future.
+style guideline: Color Theme: Blue-green and dark blue are the main colors of the website. Individual sections may have other colors that are complementary to blue-green in the future.
 
  	header background:#128f76
 	background:#2c3e50
@@ -8,7 +8,7 @@ style guideline: Color Theme: Blue-green and dark blue are the main color of the
 	images background: white
 	logo color background: transparent
 
-Typography: Courier is the main font of the website and white is the color used for the text. font size may vary
+Typography: Courier is the main font of the website and white is the color used for the text. font size may vary depending on the purpose
 
 	default text: Courier/White/15px
 	main h1: Courier/White/500%
