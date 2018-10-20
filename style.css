@@ -52,7 +52,7 @@ h1{
 
 body{
 	margin:0;
-	background-color:#f296a7;
+	background-color:#2c3e50 ;
 }
 
 h2{
@@ -84,27 +84,26 @@ background-repeat:no-repeat;
 	border-radius: 10px;
 }
 */
-
+/*individual theme for each setion*/
 div.div1{
-	background-color:  #1579a5;
+	background-color:  #2c3e50;
   	
 }
 div.div2{
-	background-color:  #1579a5;
-
+	background-color:  #2c3e50;
  
 }
 div.div3{
-	background-color: #1579a5;
+	background-color: #2c3e50;
 }
 div.div4{
-	background-color: #1579a5;
+	background-color: #2c3e50;
 }
 div.div5{
-	background-color: #1579a5;
+	background-color: #2c3e50;
 }
 div.div6{
-	background-color: #1579a5;
+	background-color: #2c3e50;
 }
 	
 p{
@@ -131,13 +130,13 @@ img.logo{
 /*Moved button code to external CSS. -Soorya */
 .button{
     float:right;
-    background-color:#99C4D2;
+    background-color:#a61532;
     padding: 10px 20px;
     border: none;
     text-align: center;
     font-family:courier;
     display:inline-block;
-    color:#7BA6B4;
+    color:#620c1d;
     font-size: 15px;
     cursor: pointer;
     border-radius:20px;
