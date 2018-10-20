@@ -26,11 +26,14 @@ Ignore this, it's an experiment -Soorya
     "footer footer footer footer";
 }
 */
+
+
 h1{ 
 	text-align:center;
 	font-size:500%;
 	font-family:courier;
 	color:white;
+	background-color:#18bc9c;
 }
 
 body{
@@ -67,7 +70,7 @@ background-repeat:no-repeat;
 }
 */
 
-div.1{
+div.div1{
 	background-color: #cae8ca;
   	border: 2px solid #4CAF50;
 }
@@ -76,6 +79,7 @@ p{
 	color:white;
 	font-family:courier;
 }
+
 img {
 	max-width:100%;
 	max-height:300px;
@@ -87,7 +91,7 @@ img {
 /*Moved button code to external CSS. -Soorya */
 .button{
     float:right;
-    background-color: #18bc9c;
+    background-color: #FFD700;
     padding: 10px 20px;
     border: none;
     text-align: center;
