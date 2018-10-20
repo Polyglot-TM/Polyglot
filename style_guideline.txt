@@ -1,12 +1,9 @@
-style guideline
+style guideline:
 
-Color theme:
-background:
-task bar:
-More info:
-pricing:
-About us:
-Contact:'
+ Color Theme:
+	background: #2c3e50
+	task bar buttons:#18bc9c
+	
 
 Font:
- Verdana
+	Paragraphs: Courier/White

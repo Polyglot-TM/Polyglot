@@ -29,20 +29,25 @@ Ignore this, it's an experiment -Soorya
 h1{ 
 	text-align:center;
 	font-size:500%;
-	font-family:verdana
+	font-family:courier;
+	color:white;
 }
 
 body{
-	background-color: #5F5F5F;
+	background-color: #2c3e50;
 }
 
 h2{
 	text-align: center;
+	color:white;
+	font-family:courier;
 
 }
 
 h3{
 	text-align: center;
+	color:white
+	font-family:courier;
 
 }
 /*
@@ -62,31 +67,41 @@ background-repeat:no-repeat;
 }
 */
 
+div.1{
+	background-color: #cae8ca;
+  	border: 2px solid #4CAF50;
+}
+	
 p{
-	letter-spacing: 1px;
-	word-spacing: 2px;
 	color:white;
+	font-family:courier;
 }
 img {
-	width: 1400px;
-	height: 600px;
+	max-width:100%;
+	max-height:300px;
 	padding: 10px;
 	border-image-width: 10px;
 	background-attachment: fixed;
+	background-color:#F5F5F5;
 }
 /*Moved button code to external CSS. -Soorya */
 .button{
-    background-color: #F4D03F;
-    border: none;
-    color: white;
+    float:right;
+    background-color: #18bc9c;
     padding: 10px 20px;
+    border: none;
     text-align: center;
-    font-size: 16px;
+    font-family:courier;
+    display:inline-block;
+    color:white;
+    font-size: 15px;
     cursor: pointer;
-    border-radius: 12px;    
+    border-radius:20px;
+    margin: 4px 2px;
+    
 }
 .pricingtext{
 	font-size:12px;
-	font-family: Verdana;
 	color:white;
+	font-family:courier;
 }
