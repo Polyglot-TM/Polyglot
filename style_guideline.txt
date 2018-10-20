@@ -2,8 +2,7 @@ style guideline: Color Theme: Blue-green and dark blue are the main colors of th
 
  	header background:#128f76
 	background:#2c3e50
-	task bar buttons background:#a61532
-	task bar button border:#620c1d
+	navigation bar:#333
 	sections color:#2c3e50 (subject to changes with the addition of more elements)
 	images background: white
 	logo color background: transparent
@@ -13,6 +12,6 @@ Typography: Courier is the main font of the website and white is the color used 
 	default text: Courier/White/15px
 	main h1: Courier/White/500%
 	h2 and h3: Courier/White
-	button text: Courier/White/15px
-	*the text size in each section may vary for esthetic purposes
+	navigation text: Courier/White/15px
+	*the text size in each sections may vary for esthetic purposes
 
