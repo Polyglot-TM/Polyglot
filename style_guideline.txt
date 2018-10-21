@@ -4,7 +4,7 @@ Overall look: The overall look of the website will be calm with soothing dark co
 
 Color Theme: Blue-green and dark blue are the main colors of the website. Individual sections may have other colors that are complementary to blue-green in the future. The navigation bar will be a dark gray. 
 
-Here are the colors currently chosen (and added) to the css of the website
+Here are the colors currently chosen (and added) to the css of the website  
 
  	header background:#128f76
 	background:#2c3e50
@@ -24,7 +24,7 @@ Here are the text fonts, color and size of our current css:
 	*the text size in each sections may vary for esthetic purposes
 
 Links:
-links won't be present in full length in the website
+links won't be present in full length in the website.
 
 Navigation bar and buttons:
 These elements are made accordingly to the color theme
