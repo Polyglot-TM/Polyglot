@@ -1,4 +1,10 @@
-style guideline: Color Theme: Blue-green and dark blue are the main colors of the website. Individual sections may have other colors that are complementary to blue-green in the future.
+style guideline: 
+
+Overall look: The overall look of the website will be calm with soothing dark colors. The logo will be the only "flashy region" of the website.
+
+Color Theme: Blue-green and dark blue are the main colors of the website. Individual sections may have other colors that are complementary to blue-green in the future. The navigation bar will be a dark gray. 
+
+Here are the colors currently chosen (and added) to the css of the website
 
  	header background:#128f76
 	background:#2c3e50
@@ -7,11 +13,24 @@ style guideline: Color Theme: Blue-green and dark blue are the main colors of th
 	images background: white
 	logo color background: transparent
 
-Typography: Courier is the main font of the website and white is the color used for the text. font size may vary depending on the purpose
+Typography: Courier is the main font of the website and white is the color that is used for the text in the entire website. font size may vary depending on the purpose.
+
+Here are the text fonts, color and size of our current css:
 
 	default text: Courier/White/15px
 	main h1: Courier/White/500%
 	h2 and h3: Courier/White
 	navigation text: Courier/White/15px
 	*the text size in each sections may vary for esthetic purposes
+
+Links:
+links won't be present in full length in the website
+
+Navigation bar and buttons:
+These elements are made accordingly to the color theme
+
+Other elements:
+some elements may contain more colors than the one used for the "skeleton" of the website, but they all have to be complementary to these.
+
+
 
