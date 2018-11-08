@@ -35,13 +35,12 @@ header{
 
 }
 
-/*
-This broke my list so I commented it. -Soorya
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: #333;
 }
 
 li {
@@ -57,7 +56,7 @@ li a {
     font-family:courier;
     font-size:15px;
 }
-*/
+
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #1579a5;
@@ -179,10 +178,9 @@ img.logo{
     
 }
 
-/*
+
 .pricingtext{
 	font-size:12px;
 	color:white;
 	font-family:courier;
 }
-*/
