@@ -43,6 +43,11 @@ ul {
     background-color: #333;
 }
 
+
+table, td, th{
+    border: 3px solid #128f76;
+}
+
 li {
     float: left;
 }
@@ -181,6 +186,12 @@ img.logo{
 
 .pricingtext{
 	font-size:12px;
+	color:white;
+	font-family:courier;
+}
+
+.pricingtext1{
+	font-size:26px;
 	color:white;
 	font-family:courier;
 }
