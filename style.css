@@ -35,7 +35,7 @@ header{
   margin-bottom:0px;
 
 }
-
+/*
 ul {
     list-style-type: none;
     margin: 0;
@@ -62,7 +62,7 @@ li a {
     font-family:courier;
     font-size:15px;
 }
-
+*/
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #1579a5;
