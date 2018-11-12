@@ -226,6 +226,9 @@ table{
   width:100%;
 }
 
+td:hover {
+  background-color:#128f76;
+}
 a:link {
 text-decoration: none;
 color: black;
