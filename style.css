@@ -1,29 +1,3 @@
-/*
-Ignore this, it's an experiment -Soorya
-.item-a {
-  grid-area: header;
-}
-.item-b {
-  grid-area: main;
-}
-.item-c {
-  grid-area: sidebar;
-}
-.item-d {
-  grid-area: footer;
-}
-.item-e {
-	grid-area: buttons;
-}
-.container {
-  grid-template-columns: 50px 50px 50px 50px;
-  grid-template-rows: auto;
-  grid-template-areas: 
-    "header header header buttons"
-    "main main . sidebar"
-    "footer footer footer footer";
-}
-*/
 head{
 	background-color:#128f76;
 }
@@ -35,8 +9,8 @@ header{
   margin-bottom:0px;
 
 }
-/*
-ul {
+
+ul.headerbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -49,11 +23,11 @@ table, td, th{
     border: 3px solid #128f76;
 }
 
-li {
+.headerbar li {
     float: left;
 }
 
-li a {
+.headerbar li a {
     display: block;
     color: white;
     text-align: center;
@@ -103,10 +77,6 @@ h3{
 	font-family:courier;
 
 }
-/*
-I find this hover feature a little annoying and distracting, have a look at it for yourselves. 
-I think it'd be best if this was removed and the hover effect used elsewhere. -Soorya
-*/
 
 /*
 div:hover
