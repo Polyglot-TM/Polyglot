@@ -20,10 +20,11 @@ ul.headerbar {
 
 
 table, td, th{
-    border: 3px solid #2c3e50;
-    background-color: #ffffff
+    border: 3px solid #128f76;
 }
 
+.pricingtext table, td, th{
+  border:0px;
 }
 .headerbar li {
     float: left;
@@ -83,6 +84,17 @@ h3{
 
 }
 
+/*
+div:hover
+{  
+background-color: rgb(169,169,169);
+background-repeat:no-repeat;
+	padding: 50px 25px;
+	margin: 0px 0px;
+	border-radius: 10px;
+}
+*/
+/*individual theme for each setion (for future change for now)*/
 div.div1{
   margin-top:0;
   width:100%;
@@ -174,8 +186,7 @@ img.logo{
 
 .pricingtext{
 	font-size:12px;
-	color:black;
-  font-weight: bold;
+	color:white;
 	font-family:courier;
 }
 
