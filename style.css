@@ -264,15 +264,16 @@ img.logo{
     flex: 30%;
     padding: 5px;
 }
+
 .faces{
   height:auto;
-  max-width:16.2%;
+  max-width:16.3%;
   border-radius: 100px;
   border-color: black;
-  margin-left: 1.5%;
-  margin-right: 1.5%;
+  margin-left: auto;
+  margin-right: auto;
   position: center;
-  padding: 0.3% 0.3%;
+  padding: 1.5% 1.5%;
   }
 
 table{
@@ -282,16 +283,17 @@ table{
   margin-left: auto;
   margin-right: auto;
 
+
 }
 
-td{
+div.div7{
 
   max-width:100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
 }
-td:hover {
+  td:hover {
   background-color:#128f76;
 }
 a:link {
@@ -302,7 +304,4 @@ color: black;
 a:visited {
 text-decoration: none;
 color: black;
-}
-h5{
-  color: white;
 }
