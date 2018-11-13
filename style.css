@@ -311,6 +311,7 @@ table.tablePrime{
   margin-left: auto;
   margin-right: auto;
   background-color: white;
+  border: #2c3e50
 }
 
   td:hover {
