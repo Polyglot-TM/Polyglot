@@ -23,6 +23,9 @@ table, td, th{
     border: 3px solid #128f76;
 }
 
+.pricingtext table, td, th{
+  border:0px;
+}
 .headerbar li {
     float: left;
 }
