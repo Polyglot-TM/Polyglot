@@ -284,6 +284,7 @@ table{
   height: auto;
   margin-left: auto;
   margin-right: auto;
+  border-color:transparent;
 
 
 }
@@ -303,6 +304,8 @@ height: auto;
 margin-left: auto;
 margin-right: auto;
 background-color: white;
+border: #2c3e50
+
 }
 table.tablePrime{
 
@@ -326,4 +329,10 @@ color: black;
 a:visited {
 text-decoration: none;
 color: black;
+<<<<<<< HEAD
+}
+.About-Us{
+  font-family:courier;
+=======
+>>>>>>> 94c221aed7fd6d57158e44042a764e64bb52239d
 }
