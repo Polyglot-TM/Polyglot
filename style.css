@@ -265,14 +265,14 @@ img.logo{
     padding: 5px;
 }
 .faces{
-  height:200px;
-  width:200px;
+  height:auto;
+  max-width:16.2%;
   border-radius: 100px;
   border-color: black;
   margin-left: 1.5%;
   margin-right: 1.5%;
   position: center;
-  padding: 0.5% 0.5%;
+  padding: 0.3% 0.3%;
   }
 
 table{
