@@ -308,10 +308,11 @@ table.tablePrime{
 
   max-width: 100%;
   height: auto;
-  margin-left: auto;
+  margin-left: auto; 
   margin-right: auto;
   background-color: white;
-  border: #2c3e50
+  border: #2c3e50;
+  
 }
 
   td:hover {
