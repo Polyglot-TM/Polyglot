@@ -264,15 +264,16 @@ img.logo{
     flex: 30%;
     padding: 5px;
 }
+
 .faces{
-  height:200px;
-  width:200px;
+  height:auto;
+  max-width:16.3%;
   border-radius: 100px;
   border-color: black;
   margin-left: auto;
   margin-right: auto;
   position: center;
-  padding: 25px 25px;
+  padding: 1.5% 1.5%;
   }
 
 table{
@@ -291,9 +292,8 @@ div.div7{
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  
 }
-td:hover {
+  td:hover {
   background-color:#128f76;
 }
 a:link {
