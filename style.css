@@ -304,6 +304,8 @@ height: auto;
 margin-left: auto;
 margin-right: auto;
 background-color: white;
+border: #2c3e50
+
 }
 table.tablePrime{
 
@@ -329,7 +331,6 @@ color: black;
 <<<<<<< HEAD
 }
 .About-Us{
-  color:white;
   font-family:courier;
 =======
 >>>>>>> 94c221aed7fd6d57158e44042a764e64bb52239d
