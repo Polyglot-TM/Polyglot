@@ -3,14 +3,14 @@ The Translator App
 This app translates what is said
 
 
-•GitHub Organization/Repository Links ¬
+â€¢GitHub Organization/Repository Links Â¬
 
-•	Organization: https://github.com/Polyglot-TM
+â€¢	Organization: https://polyglot-tm.github.io/Polyglot
 
-•	Repository: https://github.com/Polyglot-TM/Polyglot
+â€¢	Repository: https://github.com/Polyglot-TM/Polyglot
 
 
-•GitHub accounts for each team member (usernames) ¬
+â€¢GitHub accounts for each team member (usernames) Â¬
 
 o	Soorya Saravanapavan:https://github.com/Suri111200
 
