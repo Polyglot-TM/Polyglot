@@ -348,3 +348,18 @@ div.div6{
     background-color: #4CAF50;
     color: white;
 }
+
+.divPriv1{
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:5%;
+  margin-bottom:5%
+}
+.PrivListText{
+  color: white;
+  font-family: Courier;
+}
+.PrivListText a{
+  color: white;
+  font-family: Courier; 
+}
