@@ -242,6 +242,7 @@ table, td, th{
 .pricingtitles{
   font-size:20px;
   color:black;
+  font-family:courier;
   font-weight: bold;
   text-align: center;
 }
@@ -250,11 +251,6 @@ table, td, th{
   border:3px solid #2c3e50;
   border-left: 25px solid #2c3e50;
   border-right: 25px solid #2c3e50;
-}
-
-.pricingtable{
-  background-color: white;
-  border: 3px solid #2c3e50;
 }
 
 .pricingtext{
@@ -278,7 +274,6 @@ table{
 }
 
 div.div7{
-
   max-width:100%;
   height: auto;
   margin-left: auto;
@@ -305,8 +300,8 @@ table.tablePrime{
   
 }
 
-  td:hover {
-  background-color:#128f76;
+td:hover {
+background-color:#128f76;
 }
 a:link {
 text-decoration: none;
