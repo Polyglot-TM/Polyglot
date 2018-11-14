@@ -209,7 +209,7 @@ div.div2{
   margin-right: auto;
 }
 
-div.div4{
+div.div3{
 	background-color : #2c3e50
 }
 table.tablePrime{
@@ -245,11 +245,11 @@ table.tablePrime{
   border-right: 25px solid #2c3e50;
 }
 
-div.div5{
+div.div4{
 	background-color: #2c3e50;
 }
 
-div.div6{
+div.div5{
   max-width:100%;
   height: auto;
   margin-left: auto;
@@ -280,7 +280,7 @@ border: #2c3e50
   font-family:courier;
 }
 
-div.div7{
+div.div6{
   background-color: #2c3e50;
 }
 
