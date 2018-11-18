@@ -98,6 +98,7 @@ h4{
 /*Specific styling -- Rest of CSS is specific to certain sections.
 Ordered chronologically to make it easier to follow*/
 
+/*Styling for the navigtion bar*/
 ul.headerbar {
   list-style-type: none;
   margin: 0;
@@ -120,6 +121,7 @@ ul.headerbar {
     font-size:15px;
 }
 
+/*Styling for main logo*/
 img.logo{
   max-width:100%;
   max-height:78px;
@@ -143,6 +145,7 @@ div.div1{
   padding-top:20px;
 }
 
+/*Styling for Features section*/
 div.div2{
   background-color:#128f76;
   margin-top:0;
@@ -173,6 +176,7 @@ div.div2{
   opacity: 1;
 }
 
+/*Formating for text on Features section*/
 .text {
   background-color: transparent;
   color: white;
@@ -248,6 +252,7 @@ div.div4{
 	background-color: #2c3e50;
 }
 
+/*Styling for About Us section*/
 div.div5{
   max-width:100%;
   height: auto;
@@ -279,6 +284,7 @@ border: #2c3e50
   font-family:courier;
 }
 
+/*Styling for Contact Us section*/
 div.div6{
   background-color: #2c3e50;
 }
