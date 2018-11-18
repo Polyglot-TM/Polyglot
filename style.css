@@ -34,7 +34,7 @@ table{
 p{
   color:white;
   font-family:courier;
-  font-size:0.9vh;
+  font-size:15px;
 }
 /*default images styling*/
 img {
@@ -279,10 +279,7 @@ margin-right: auto;
 background-color: white;
 border: #2c3e50
 }
-tr{
-	margin-right:auto; 
-	margin-left:auto;
-}
+
 
 .faces{
   height:auto;
