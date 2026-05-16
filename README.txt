@@ -20,4 +20,3 @@ o	Thomas Ouellette : https://github.com/touel068
 
 o	Athavan Jeeva : https://github.com/Athavan1919
 
-o	Ntibaharire Lionel : https://github.com/Llionel
